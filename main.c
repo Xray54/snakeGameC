@@ -5,7 +5,6 @@
 #include <conio.h>
 #include <math.h>
 
-
 //사용자 옵션 시작
 //게임판 크기 설정 크기만큼 이동할 공간이 생깁니다.
 #define INPUT_SIZE_X 30			// 10 ~ 38 설정 기본값:30
